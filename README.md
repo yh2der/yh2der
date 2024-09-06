@@ -42,5 +42,3 @@ Currently, I am a master's student at NCHU and a member of the Information Secur
     </td>
   </tr>
 </table>
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg)
