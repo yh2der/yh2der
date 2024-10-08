@@ -49,4 +49,4 @@ Currently, I am a master's student at NCHU and a member of the Information Secur
   </tr>
 </table>
 
-![](https://raw.githubusercontent.com/yh2der/yh2der/refs/heads/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/yh2der/yh2der/refs/heads/output/github-contribution-grid-snake-dark.svg)
